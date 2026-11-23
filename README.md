@@ -54,12 +54,4 @@ Open `http://127.0.0.1:8000`. The page displays only an **experimental dataset-c
 
 ## Publish the static research site
 
-The `dist/` folder is a self-contained static site. You can open `dist/index.html` locally or publish it with any static host. GitHub Pages can serve it from the repository root after copying `dist/index.html` to the root, or from a Pages workflow that uploads `dist/`.
-
-## References
-
-- Public reference: [krishna111809/fingerprint-based-blood-group-detection](https://github.com/krishna111809/fingerprint-based-blood-group-detection)
-- Video reference: [Detect Your Blood Type with Just a Fingerprint! Using Machine Learning](https://www.youtube.com/watch?v=cewYSEO4wdM)
-- Clinical context: [NHS blood groups](https://www.nhs.uk/tests-and-treatments/blood-groups/)
-
-The reference repository's model/dataset organization is informative, but its unverified class labels and reported performance must not be treated as clinical evidence.
+The public research site is live at [Fingerprint Study Lab](https://shubham-kumar-125.github.io/fingerprint-study-lab/). The `dist/` folder is a self-contained static site that can also be opened locally as `dist/index.html`.
